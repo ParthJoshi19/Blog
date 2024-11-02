@@ -1,6 +1,5 @@
 import { createContext, useState } from 'react';
 
-// Create a context for authentication
 export const AuthContext = createContext();
 export const UserContext = createContext();
 
